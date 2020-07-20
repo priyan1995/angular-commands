@@ -1,0 +1,4 @@
+=======================================================
+Generate routing, module, child routing and component in same command :
+ng g m Header --route header --module app.module
+=======================================================
